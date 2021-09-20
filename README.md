@@ -2,9 +2,17 @@
 A flash player extension for firefox to run swf files.
 
 ## How To Install
-1. Run the setup file to install the flash player
-2. Open Firefox, Click on the ham-menu and then Add-ons and themes
-3. Click on the gear icon, Select "Install Add-on From File"
+* Run the setup file to install the flash player
+Firefox:
+* Open Firefox, Click on the ham-menu and then Add-ons and themes
+* Click on the gear icon, Select "Install Add-on From File"
+Chrome:
+* Change the extension of the XPI file to ZIP by renaming it
+* Extract Files into an empty folder
+* Open Chrome, Click on the 3-dots menu -> More tools -> Extensions
+* Enable the developer mode by pressing on the button on the top right
+* A new menu will show up, click on "Load unpacked"
+* Locate the folder that you extracted the xpi file contents to and click on Select Folder.
 
 Now go to any website that has swf files in it and it will show a "Run This Flash" button.
 
