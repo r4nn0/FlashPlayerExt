@@ -37,3 +37,5 @@ runSWF\
 ```
 If you don't trust the setup file you can download the Adobe Flash Player or any other player, add the keys above to the registry,
 modify the value of the default key under "command" and set the path to the player on your machine.
+
+This is just a test
